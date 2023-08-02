@@ -1,7 +1,7 @@
 //Assignement-01 of module 01
 void main() {
-  const a = 7;
-  const b = 3;
+  const int a = 7;
+  const int b = 3;
   var add = a + b;
   var sub = a - b;
   var multi = a * b;
