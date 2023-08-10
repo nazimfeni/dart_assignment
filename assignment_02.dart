@@ -1,5 +1,5 @@
 /*Assignment 02 of Module 02
-Finding the average grade of a student result from given list
+Finding the average grade of a student result from given list.
 */
 void main() {
   List<int> grades = [85, 92, 78, 65, 88, 72];
