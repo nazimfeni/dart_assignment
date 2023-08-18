@@ -1,5 +1,5 @@
 /* Assignment no 03 Batch: Flutter-04
-Name: Md. Nazim Uddin
+Name: Md. Nazim Uddin.
 */
 
 class Car {
