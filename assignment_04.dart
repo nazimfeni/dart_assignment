@@ -1,6 +1,6 @@
 /* Assignment no 04
 Batch: Flutter-04
-Name: Md. Nazim Uddin
+Name: Md. Nazim Uddin.
 */
 
 abstract class Account {
